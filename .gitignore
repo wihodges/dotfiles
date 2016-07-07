@@ -1,3 +1,13 @@
+<<<<<<< ddff56010bd180b4ff0f8929d1ce54187abf5a63
+atom.symlink/.node-gyp
+atom.symlink/.storage
+atom.symlink/compile-cache/
+atom.symlink/packages
+atom.symlink/storage
+atom.symlink/themes
+
+git/gitconfig.symlink
+=======
 # Compiled Python files
 *.pyc
 
@@ -12,3 +22,4 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+>>>>>>> iMac config
